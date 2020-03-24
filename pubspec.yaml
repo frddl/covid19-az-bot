@@ -1,0 +1,19 @@
+name: covid19_telegram_bot
+description: A sample command-line application.
+# version: 1.0.0
+# homepage: https://www.example.com
+# author: Farid <faridmmmdv@gmail.com>
+
+environment:
+  sdk: ">=2.3.0 <3.0.0"
+
+dependencies:
+  html: ^0.14.0+3
+  http: ^0.12.0
+  teledart: ^0.0.36
+  mysql1: ^0.17.1
+  dotenv: ^2.0.0
+
+dev_dependencies:
+  pedantic: ^1.0.0
+  test: ^1.0.0
